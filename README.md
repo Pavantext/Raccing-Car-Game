@@ -9,6 +9,14 @@ A python based Racing car game
 
 ![Screenshot (12)](https://github.com/user-attachments/assets/67556521-cb6d-44ff-b94f-fbebb37c0129)
 
+
+#requirements
+pip (if u haven't installed)
+pygame
+math
+datetime 
+
+
 # Used images for track
 ![grass](https://github.com/user-attachments/assets/2b685be0-5f04-49ad-a7d6-3d7f316fb842)
 ![track](https://github.com/user-attachments/assets/bbc4cf05-f358-4278-89ce-329b3fee78d1)
