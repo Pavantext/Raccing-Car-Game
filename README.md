@@ -10,7 +10,7 @@ A python based Racing car game
 ![Screenshot (12)](https://github.com/user-attachments/assets/67556521-cb6d-44ff-b94f-fbebb37c0129)
 
 
-#requirements
+# requirements
 pip (if u haven't installed)
 pygame
 math
