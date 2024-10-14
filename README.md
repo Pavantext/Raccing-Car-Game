@@ -11,10 +11,10 @@ A python based Racing car game
 
 
 # requirements
-pip (if u haven't installed)
-pygame
-math
-datetime 
+pip (if u haven't installed),
+pygame,
+math,
+datetime.
 
 
 # Used images for track
